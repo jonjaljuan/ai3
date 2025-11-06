@@ -67,13 +67,17 @@ st.markdown("---")
 # 라벨 이름 매핑: 여기를 채우세요!
 # 각 라벨당 최대 3개씩 표시됩니다.
 # ======================
-CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
+CONTENT_BY_LABEL: dict[str, dict[s    tr, list[str]]] = {
     # 예)
     # "짬뽕": {
     #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+labels[0]:{"texts":["짜장면은 한국인의 소울푸드입니다."]},
+labels[1]:{"texts":["짬뽕은 허종훈의 소울푸드입니다."]},
+labels[2]:{"texts":["탕수육은 시언이의 소울푸드입니다."]},
+
 }
 
 # ======================
