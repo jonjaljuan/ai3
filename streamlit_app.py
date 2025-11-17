@@ -78,8 +78,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     labels[0]:{"texts":["짜장면은 한국인의 소울푸드입니다."],
               "videos":["https://www.youtube.com/watch?v=BRwhAldU_KE"],
 "images": ["https://img.tf.co.kr/article/home/2012/03/20/120320_4f6808939a483.jpg"],},
-    labels[1]:{"texts":["짬뽕은 허종훈의 소울푸드입니다."]},
-    labels[2]:{"texts":["탕수육은 시언이의 소울푸드입니다."]},
+    labels[1]:{"texts":["짬뽕은 허종훈의 소울푸드입니다."],
+               "videos":["https://www.youtube.com/watch?v=FGOnrrxI6Gg"],
+               "images": ["https://img.danawa.com/prod_img/500000/571/351/img/11351571_1.jpg?shrink=500:*&_v=20200521125802"],},
+    labels[2]:{"texts":["탕수육은 시언이의 소울푸드입니다."],
+              "videos":["https://www.youtube.com/watch?v=e9jHy8AJ4yc"],
+              "images": ["https://homecuisine.co.kr/files/attach/images/142/737/002/969e9f7dc60d42510c5c0353a58ba701.JPG"]},
 
 }
 
