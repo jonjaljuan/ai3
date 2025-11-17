@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # 예)
     # "짬뽕": {
     #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+    #   "images": ["https://news.tf.co.kr/read/photomovie/1019077.htm"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
