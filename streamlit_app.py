@@ -75,9 +75,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
-    labels[0]:"texts":["짜장면은 한국인의 소울푸드입니다."],
+    labels[0]:{"texts":["짜장면은 한국인의 소울푸드입니다."],
               "videos":["https://www.youtube.com/watch?v=BRwhAldU_KE"],
-"images": ["https://img.tf.co.kr/article/home/2012/03/20/120320_4f6808939a483.jpg"],
+"images": ["https://img.tf.co.kr/article/home/2012/03/20/120320_4f6808939a483.jpg"],},
     labels[1]:{"texts":["짬뽕은 허종훈의 소울푸드입니다."]},
     labels[2]:{"texts":["탕수육은 시언이의 소울푸드입니다."]},
 
